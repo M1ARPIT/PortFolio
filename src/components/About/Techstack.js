@@ -17,7 +17,6 @@ import {
   SiCanva,
   SiNetlify,
   SiMysql ,
-  SiAndroid,
   
 } from "react-icons/si";
 
