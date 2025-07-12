@@ -15,7 +15,7 @@ function ResumeNew() {
     setWidth(window.innerWidth);
   }, []);
 
-  const pdfFile = `${process.env.PUBLIC_URL}/ArpitResume.pdf`;
+  const pdfFile = `${process.env.PUBLIC_URL}/Arpit_resume_main.pdf`;
 
   return (
     <div>
